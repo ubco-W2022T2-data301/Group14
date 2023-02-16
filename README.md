@@ -1,14 +1,11 @@
-# Group YY - {Short snappy Title of your project}
+# Group 14 - Analysis of Premier League Matches 2014-2020
 
-- Your title can change over time.
-
-## Milestones
-
-Details for Milestone are available on Canvas (left sidebar, Course Project).
+## Milestone2
 
 ## Describe your topic/interest in about 150-200 words
+Through this analytics project, we hope to understand more about the game of football through statistics and data, instead of seeing the matches in a traditional way. We are interested in this dataset because we all like football, and wanted to interact with a dataset in which we all have an interest in. In addition to that, we never see football matches from a statistical viewpoint, so we were interested in analyzing the game from this perspective. Specifically, we wanted to focus on injuries and yellow/red cards, and how that would affect the performance and results of the team. Furthermore, we were also interested in how that changed the excitement of the fans that are watching the game live in the stadium.
 
-{Add your stuff here}
+We believe that this dataset could be a user-facing dashboard because it has precise data observations that can be put into various graphs and charts. Through deeper analysis, we will be able to extract more data, and make connections between each one.
 
 ## Describe your dataset in about 150-200 words
 
@@ -21,9 +18,12 @@ In the Provenance section of the dataset, it mentions that the dataset was colle
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Person 1: **Omar Hemed**
+  I love watching football games.
+- Person 2: **Makoto Kitamura**
+  I play Intramural soccer.
+- Person 3: **Takara Nishizaki** 
+  Playing soccer cannot be seperated from my life!
 
 ## Images
 
