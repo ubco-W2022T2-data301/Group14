@@ -1,6 +1,6 @@
 # Group 14 - Analysis of Premier League Matches 2014-2020
 
-## Milestone2
+## 
 
 ## Describe your topic/interest in about 150-200 words
 Through this analytics project, we hope to understand more about the game of football through statistics and data, instead of seeing the matches in a traditional way. We are interested in this dataset because we all like football, and wanted to interact with a dataset in which we all have an interest in. In addition to that, we never see football matches from a statistical viewpoint, so we were interested in analyzing the game from this perspective. Specifically, we wanted to focus on injuries and yellow/red cards, and how that would affect the performance and results of the team. Furthermore, we were also interested in how that changed the excitement of the fans that are watching the game live in the stadium.
@@ -33,7 +33,7 @@ In the Provenance section of the dataset, it mentions that the dataset was colle
 
 ## References
 
-{Add your stuff here}
+The URL of the data that we used is https://www.kaggle.com/datasets/sanjeetsinghnaik/premier-league-matches-20142020
 
 
 
