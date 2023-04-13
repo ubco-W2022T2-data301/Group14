@@ -15,15 +15,15 @@ The Premier League is one of the most famous football leagues in the world, know
 
 The main focus of my research question was to gather as much data as I could for the yellow and red cards for the away team and compare them with the home team. I gathered the information for both yellow and red cards and calculated them per year, I also got the mean of all teams and the mean for yellow and red cards. After getting into more depth about my question I concluded that the away team gets more yellow/red cards for multiple reasons. One of the reasons is that the away team is not playing with its own fans and field and that affects the players and how well they can perform in a match.
 
-![alt text](./images/Away Team Yellow Cards.png)
+![alt text](./images/Away_Team_Yellow_Cards.png)
 
-![alt text](./images/"Home Team Yellow Cards.png")
+![alt text](./images/"Home_Team_Yellow_Cards.png")
 
 I specifically chose to add the 2 graphs above to my dashboard since they are easy to read and convenient. As represented above we can see the number of yellow cards per year for both the home team and the away team. This is an easy visualization that can clearly show us the huge difference between the number of yellow cards the away team gets over the home team.
 
-![alt text](./images/"Away Team Red Cards.png")
+![alt text](./images/"Away_Team_Red_Cards.png")
 
-![alt text](./images/"Home Team Red Cards.png")
+![alt text](./images/"Home_Team_Red_Cards.png")
 
 Moreover, I presented 2 graphs for red cards per year for both the home and the away team. It was a little bit harder to gather information about red cards since they are rare to happen. We can observe from these 2 graphs that still the away team gets more red cards than the home team over the years. And that concludes my research question that the away team gets more yellow and red cards than the home team for many different reasons.
 
