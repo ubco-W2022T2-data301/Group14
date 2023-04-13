@@ -90,7 +90,7 @@
    "id": "dfbf7f22-a187-49ac-82ce-891294503ae1",
    "metadata": {},
    "source": [
-    "![alt text](./images/\"Away Team Red Cards.png\")"
+    "![alt text](Group14/images/\"Away Team Red Cards.png\")"
    ]
   },
   {
@@ -138,7 +138,7 @@
    "id": "a54a065a-49ce-4eb2-94bd-fb57fc70d09d",
    "metadata": {},
    "source": [
-    "![alt text](./images/makoto.image1.png)"
+    "![alt text](Group14/images/makoto.image1.png)"
    ]
   },
   {
