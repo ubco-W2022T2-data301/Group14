@@ -11,17 +11,17 @@ The Premier League is one of the most famous football leagues in the world, know
 
 ## **Research 1: Does playing at home affects the amount of yellow/red cards for the away team? (Omar Hemed)** 
 
-- The analysis notebook can be accessed from [here](https://github.com/ubco-W2022T2-data301/Group14/blob/main/analysis/analysis1.ipynb
+- The analysis notebook can be accessed from [here](https://github.com/ubco-W2022T2-data301/Group14/blob/main/analysis/analysis1.ipynb)
 
 The main focus of my research question was to gather as much data as I could for the yellow and red cards for the away team and compare them with the home team. I gathered the information for both yellow and red cards and calculated them per year, I also got the mean of all teams and the mean for yellow and red cards. After getting into more depth about my question I concluded that the away team gets more yellow/red cards for multiple reasons. One of the reasons is that the away team is not playing with its own fans and field and that affects the players and how well they can perform in a match.
 
-![alt text](./images/"Away Team Yellow Cards.png")
+![alt text](./images/Away Team Yellow Cards.png)
 
 ![alt text](./images/"Home Team Yellow Cards.png")
 
 I specifically chose to add the 2 graphs above to my dashboard since they are easy to read and convenient. As represented above we can see the number of yellow cards per year for both the home team and the away team. This is an easy visualization that can clearly show us the huge difference between the number of yellow cards the away team gets over the home team.
 
-![alt text](Group14/images/"Away Team Red Cards.png")
+![alt text](./images/"Away Team Red Cards.png")
 
 ![alt text](./images/"Home Team Red Cards.png")
 
@@ -33,7 +33,7 @@ Moreover, I presented 2 graphs for red cards per year for both the home and the 
 
 My research was focused on exploring the impact of halftime scores and home game excitement on the overall result and excitement of a soccer match. Specifically, I was interested in understanding how a team’s halftime lead or deficit could affect their performance in the second half, and how the excitement of home fans could potentially influence the outcome of the game. While I found that these factors can have some impact, I also noted that there are many other factors that contribute to a team's success, such as player skill coaching tactics, and external factors like injuries or weather conditions. Overall my research highlights the complex and multifaceted nature of soccer as a sport and the many variables that can influence the outcome of a match.
 
-![alt text](Group14/images/makoto.image1.png)
+![alt text](./images/makoto.image1.png)
 
 This graph reveals that matches with close scores, such as 0-0, 1-1, and 1-0 have the highest match excitement for the fans. This indicates that fans enjoy matches that are competitive and where the outcome is uncertain until the very end. It also suggests that a low-scoring match can be just as exciting, if not more so, than a high-scoring match.
 
