@@ -17,13 +17,13 @@ The main focus of my research question was to gather as much data as I could for
 
 ![alt text](./images/Away_Team_Yellow_Cards.png)
 
-![alt text](./images/"Home_Team_Yellow_Cards.png")
+![alt text](./images/Home_Team_Yellow_Cards.png)
 
 I specifically chose to add the 2 graphs above to my dashboard since they are easy to read and convenient. As represented above we can see the number of yellow cards per year for both the home team and the away team. This is an easy visualization that can clearly show us the huge difference between the number of yellow cards the away team gets over the home team.
 
-![alt text](./images/"Away_Team_Red_Cards.png")
+![alt text](./images/Away_Team_Red_Cards.png)
 
-![alt text](./images/"Home_Team_Red_Cards.png")
+![alt text](./images/Home_Team_Red_Cards.png)
 
 Moreover, I presented 2 graphs for red cards per year for both the home and the away team. It was a little bit harder to gather information about red cards since they are rare to happen. We can observe from these 2 graphs that still the away team gets more red cards than the home team over the years. And that concludes my research question that the away team gets more yellow and red cards than the home team for many different reasons.
 
